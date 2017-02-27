@@ -1,6 +1,6 @@
 # Mexican
 
-Just throwing out names for now...
+Just throwing out names for now.  Would like to organize these into a crawl.
 
 ## LA Central Core
 
