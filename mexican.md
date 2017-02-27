@@ -1,6 +1,6 @@
 # Mexican
 
-Just throwing out names for now.  Would like to organize these into a crawl.
+Just throwing out names for now.  Would like to organize these into a crawl.  Will need to note day/time limitations on open hours.
 
 ## LA Central Core
 
