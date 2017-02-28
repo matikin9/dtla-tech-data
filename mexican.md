@@ -10,5 +10,6 @@ Just throwing out names for now.  Would like to organize these into a crawl.  Wi
 * Mariscos Jalisco
 * BS Taqueria
 * Carnitas El Momo
+  * Wed-Sun only
 * Al & Bea's
 * Tire Shop Taqueria
