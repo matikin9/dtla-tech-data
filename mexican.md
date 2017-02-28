@@ -5,11 +5,12 @@ Just throwing out names for now.  Would like to organize these into a crawl.  Wi
 ## LA Central Core
 
 * Sonoratown
-* Chica's Tacos
+ * Tue-Sat only
+* Chicas Tacos
 * Guerilla Tacos
 * Mariscos Jalisco
 * BS Taqueria
 * Carnitas El Momo
-  * Wed-Sun only
+ * Wed-Sun only
 * Al & Bea's
 * Tire Shop Taqueria
