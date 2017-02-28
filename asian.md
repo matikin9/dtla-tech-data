@@ -1,15 +1,13 @@
 # Asian
 
-Places to try:
+Places to go:
 
-* NADI Myanmar
+* NADI Myanmar (Burmese)
  * Alhambra
-* Ah May Myanmar
+* Ah May Myanmar (Burmese)
  * Rosemead
-* Jumping 1 Ton
- * Baldwin Park
-* The Legendary Restaurant
+* The Legendary Restaurant (Chinese)
  * Alhambra
-* Luv2eat Thai Bistro
+* Luv2eat Thai Bistro (Thai)
  * Hollywood
  * jade noodles
